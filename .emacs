@@ -4,5 +4,7 @@
 (setq linum-format "%d ")
 ;; configure backups
 (setq backup-directory-alist `(("." . "~/.saves")))
+;; indentation for switch statements
+(c-set-offset 'case-label '+)
 
 
