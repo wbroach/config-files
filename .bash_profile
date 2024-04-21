@@ -29,6 +29,3 @@ alias empty_trash='rm -rf ~/.trash/*; rm -rf ~/.trash/.* 2> /dev/null'
 #alias that clears screen and shows info about the current directory
 alias wipe='clear; pwd; ls'
 
-
-
-
